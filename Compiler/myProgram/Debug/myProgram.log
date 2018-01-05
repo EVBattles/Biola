@@ -1,0 +1,5 @@
+﻿  interpreter.cpp
+c:\users\jillianm\desktop\program #4\program #4\lexscanner\myprogram\interpreter.cpp(242): warning C4018: '<': signed/unsigned mismatch
+c:\users\jillianm\desktop\program #4\program #4\lexscanner\myprogram\interpreter.cpp(139): warning C4715: 'interpreter::display': not all control paths return a value
+  myProgram.vcxproj -> C:\Users\Jillianm\Desktop\Program #4\Program #4\LexScanner\Debug\myProgram.exe
+  myProgram.vcxproj -> C:\Users\Jillianm\Desktop\Program #4\Program #4\LexScanner\Debug\myProgram.pdb (Partial PDB)

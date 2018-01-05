@@ -1,0 +1,23 @@
+function main( )
+{
+
+  display;
+  display "f() functiion now executed:";
+  f( ); return 0;
+
+
+}
+
+ function f ( x ) 
+   { 
+     if ( x == 1 ) 
+       x = 3 ; 
+     else 
+       { 
+         if ( x < 3 ) 
+           y = 4 ; 
+         else 
+           z = y ; 
+       } 
+display "x=",x," y=",y," z=",z;
+   } 

@@ -1,0 +1,16 @@
+
+function main( )
+{
+
+  display;
+  display "f() functiion now executed:";
+  f( ); return 0;
+
+
+}
+
+function f()
+{ 
+  x=2; y=7;   display "x=",x,", y=",y, " x+y=", x+y;
+  return 1;
+}

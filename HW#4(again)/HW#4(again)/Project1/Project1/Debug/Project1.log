@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\jill\desktop\hw#4(again)\project1\project1\source.cpp(608): warning C4018: '<': signed/unsigned mismatch
+c:\users\jill\desktop\hw#4(again)\project1\project1\source.cpp(698): warning C4018: '<': signed/unsigned mismatch
+c:\users\jill\desktop\hw#4(again)\project1\project1\source.cpp(707): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> C:\Users\Jill\Desktop\HW#4(again)\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Jill\Desktop\HW#4(again)\Project1\Debug\Project1.pdb (Partial PDB)
